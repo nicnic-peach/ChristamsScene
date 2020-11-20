@@ -1,2 +1,2 @@
-# ChristamsScene
+# ChristmasScene
 VR experiment
